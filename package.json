@@ -4,6 +4,8 @@
   "description": "This is my first GIT repository.",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
