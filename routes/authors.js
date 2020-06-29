@@ -25,7 +25,6 @@ router.post('/', (req,res) =>{
             //res.redirect(`authors/${newAuthor.id}`)
             res.redirect(`authors`)
         }
-
     })
 })
     
